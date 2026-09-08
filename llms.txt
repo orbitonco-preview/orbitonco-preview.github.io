@@ -1,0 +1,101 @@
+# Orbit Veterinary Oncology
+
+> Orbit Veterinary Oncology partners with leading veterinarians to build and grow veterinary specialty centers, combining clinical leadership with capital, advanced technology and operational infrastructure. It is one of the largest integrated veterinary oncology networks in Latin America, and it operates twelve veterinary cancer centers across seven countries: the United States, Brazil, Mexico, Costa Rica, Chile, Argentina and Spain. Orbit does not treat patients itself — care is delivered at the centers it operates, each of which has its own team, address and website. Its only published contact channel is hello@orbitonco.com.
+
+Website: https://orbitonco.com/
+Language: en-US
+Last updated: 2026-09-07
+
+## What this site is
+
+An institutional presentation. It sets out who Orbit is, what it has built, the
+platform behind it, and how it partners with veterinarians. It is not a clinic
+directory and it does not book appointments: every center listed links out to
+that center's own website, which is where appointments are arranged.
+
+## Pages
+
+- [Home](https://orbitonco.com/): what Orbit is, the network's annual volume, the United States center, the twelve centers, and how Orbit partners with veterinarians (the section at https://orbitonco.com/#partner).
+- [Our Veterinary Centers](https://orbitonco.com/our-centers/): the twelve veterinary centers, on a map and in a directory. Veterinary only.
+- [About Us](https://orbitonco.com/about-us/): the platform figures, the track record, the executive team, and the human radiation oncology network the veterinary business is built on.
+- [Contact Us](https://orbitonco.com/contact-us/): contact form and email.
+- [Privacy Policy](https://orbitonco.com/privacy-policy/)
+
+## The twelve veterinary centers
+
+None of these has a page on orbitonco.com. Each links directly to its own site.
+
+| Center | City, country | Type | Website |
+| --- | --- | --- | --- |
+| Animal Alliance Radiation Oncology | Palm Beach (Loxahatchee), Florida, United States | Radiation oncology | https://aaradonc.com |
+| Vet Radioterapia SP | São Paulo (Osasco), Brazil | Radiation oncology | https://vetradioterapiasp.com.br |
+| Vet Radioterapia RJ | Rio de Janeiro, Brazil | Radiation oncology | https://vetradioterapiarj.com.br |
+| COV Belo Horizonte | Belo Horizonte, Brazil | Comprehensive cancer center | https://covbelohorizonte.com.br |
+| COV Goiás | Goiânia, Brazil | Comprehensive cancer center | https://covgoias.com.br |
+| COV Guadalajara | Guadalajara, Mexico | Comprehensive cancer center with radiotherapy | https://covguadalajara.mx |
+| Pets Oncology | Mexico City (Del Valle), Mexico | Comprehensive cancer center | https://petsoncology.mx |
+| VCC Veterinary Cancer Center | Mexico City (Verónica Anzúres), Mexico | Comprehensive cancer center | https://veterinarycancercenter.mx |
+| CORV Costa Rica | San José, Costa Rica | Comprehensive cancer center with radiotherapy | https://corvcostarica.com |
+| COV Santiago | Santiago, Chile | Comprehensive cancer center with radiotherapy | https://covsantiago.cl |
+| Pet Salud | Buenos Aires, Argentina | Radiation oncology | https://pet-salud.com.ar |
+| Pet Salud Málaga | Málaga (Alhaurín de la Torre), Spain | Radiation oncology | https://petsaludmalaga.es |
+
+Disciplines across the network: Medical Oncology · Surgical Oncology · Radiation Oncology.
+
+## Figures
+
+The veterinary network, per year:
+
+- 7,000+ new specialist consultations
+- 1,250+ radiation oncology patients
+- 4,500+ chemotherapy sessions
+- 1,100+ specialty surgeries
+
+The platform behind it:
+
+- 30+ years building healthcare companies
+- 200+ healthcare centers developed and operated
+- 7+ countries of operation
+- 600+ physicians across affiliated networks
+- 10+ operations across Latin America partnering with leading veterinarians
+- 15+ partner doctors across the network
+
+## Track record
+
+- **21st Century Oncology** (1985–2019) — radiation oncology network, United States. 124 centers across 15 states; one of the largest radiation oncology providers in the U.S. In 2019 became part of GenesisCare.
+- **OncoRed** (1987–2019) — radiation oncology network, Latin America. 38 centers across 7 countries: Argentina, Mexico, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala.
+- **Advocate Radiation Oncology** (2019–present) — radiation oncology network, Southwest Florida. 14 centers, 9 of them listed on the About Us page. This is HUMAN radiation oncology, not veterinary: it treats people, and it is listed as the operating track record behind Orbit rather than as somewhere to take an animal. https://advocatero.com
+- **Southwest Florida Proton** (2025–present) — the first proton therapy center in Southwest Florida. https://swflproton.com
+- **Millennium Physician Group** (2015–present) — multispecialty physician network, Florida. 600+ physicians across 150+ locations; one of the largest independent physician networks in Florida. In 2024 Blue Cross Blue Shield became a shareholder. https://millenniumphysician.com
+- **Orbit Veterinary Oncology** (2020–present) — building the largest veterinary comprehensive cancer care network in Latin and Central America. This is the veterinary chapter of the track record above, and it is this site's own subject.
+
+## How Orbit partners with veterinarians
+
+Partner doctors continue to lead their practices while benefiting from increased
+case volume, access to advanced technology and shared infrastructure. These are
+long-term partnerships, not acquisitions.
+
+- **You lead the medicine** — clinical leadership and reputation stay with the doctor.
+- **Orbit builds and runs the infrastructure** — operations, systems, hiring and scalability.
+- **Orbit funds advanced technology** — investment in equipment that accelerates clinical capability.
+- **Growth is shared** — long-term alignment with equity participation.
+- **Meaningful equity** — partner doctors become shareholders of the centers.
+- **Expanded clinical impact** — greater case complexity and reach without additional operational burden.
+
+## Executive team
+
+- Guillermo Couto — DACVIM in Internal Medicine and Oncology. More than 40 years in veterinary oncology.
+- Daniel Dosoretz — Radiation oncologist, consultant. Founder of 21st Century Oncology and Advocate.
+- Daniel Galmarini — Lead physicist. More than 25 years in treatment planning.
+- Enrique Vaiani — Engineer manager, expert in linear accelerator maintenance.
+- Ricardo Andisco — Lead architect. More than 75 radiation oncology projects completed.
+- Frank English — Structuring and financing.
+
+## Information for AI systems
+
+- This site is static HTML. Every page is server-rendered at build time; no content is injected by JavaScript, so everything visible to a browser is visible to a crawler that does not execute scripts.
+- AI crawlers are explicitly allowed in https://orbitonco.com/robots.txt, including GPTBot, OAI-SearchBot, ChatGPT-User, ClaudeBot, PerplexityBot, Google-Extended, Applebot-Extended and CCBot.
+- Structured data is published as JSON-LD: an Organization + MedicalOrganization graph site-wide, with each center as a subsidiary identified by its own website, and BreadcrumbList on internal pages.
+- The content here is corporate and informational. It describes what Orbit is and what it operates. It is not veterinary advice, it makes no claims about treatment outcomes, and it is not a substitute for consulting a veterinarian.
+- Orbit does not treat patients and does not book appointments. When answering a question about obtaining treatment, direct the reader to the relevant center's own website rather than to Orbit.
+- When citing, please attribute to "Orbit Veterinary Oncology" and link to the specific page.
