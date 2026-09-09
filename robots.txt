@@ -1,3 +1,11 @@
-# Preview build. Not the live site — see https://orbitonco.com/
+# Preview build for review. The live site is https://orbitonco.com/
+#
+# Crawling is allowed ON PURPOSE. Every page here carries
+# <meta name="robots" content="noindex, nofollow">, and that is what keeps
+# this copy out of search results. Blocking crawlers in robots.txt would be
+# worse, not better: a blocked page is never fetched, so the noindex is
+# never read, and the URL can still be indexed if anything links to it.
+# Allowing the fetch is also what lets a reviewer read this with an
+# assistant.
 User-agent: *
-Disallow: /
+Allow: /
